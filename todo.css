@@ -1,0 +1,82 @@
+body {
+    background-image:url('img1.jpg');
+    background-size: cover;
+  }
+.title{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 0%;
+    text-decoration: underline;
+    font-family: 'Croissant One', cursive;
+}.heading{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: 'Croissant One', cursive;
+}
+.lable{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin-left:80px;
+    margin-bottom: 40px;
+}
+.card{
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+#removecompleted{
+    margin-top: 5%;
+    margin-left: 33%;
+    margin-right: 30%;
+    background-color: rgba(239, 89, 89, 0.5);
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    font-family: 'Croissant One', cursive;
+
+}
+#task-list{
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    font-family: 'Croissant One', cursive;
+}
+.addtask{
+    margin-top: 5%;
+    margin-left: 28%;
+    margin-right: 00%;
+    background-color: rgba(0,0,0,0.5);
+    padding: 25px;
+    border-radius: 15px;
+    color: white;
+    font-family: 'Croissant One', cursive;
+}
+.centering{
+    width: 50%;
+    margin: 0 auto;
+}
+.iptask{
+margin-top: 40px;
+margin-right: auto;
+margin-left: auto;
+    width: 90%;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 20px;
+    border: none;
+    background-color: snow;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+
+}
